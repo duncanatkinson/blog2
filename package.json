@@ -1,0 +1,26 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "description": "Blog for green nut ltd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/duncanatkinson/blog2.git"
+  },
+  "keywords": [
+    "blog",
+    "angular"
+  ],
+  "author": "Duncan Atkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncanatkinson/blog2/issues"
+  },
+  "homepage": "https://github.com/duncanatkinson/blog2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
